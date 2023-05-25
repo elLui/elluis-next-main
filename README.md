@@ -5,7 +5,7 @@ do your best AI !! - lol
 
 # 🚀 Welcome to my Next.js Project! 🚀
 
-This is the home of my Next.js project, which is also mirrored over at my JetBrains Space repo at [this cool link](https://elluiscodes.jetbrains.space/p/main/repositories/elluis-next-main/files/main). Let's take a tour of the tech stack, in the order of implementation!
+This is the home of my Next.js project, which is also mirrored over at my JetBrains Space repo, for **MY** viewing pleasure at [this cool link](https://elluiscodes.jetbrains.space/p/main/repositories/elluis-next-main/files/main). Let's take a tour of the tech stack, in the order of implementation!
 
 ## 1️⃣ [Next.js](https://www.nextjs.org)
 We kick things off with Next.js, the React framework. It's the backbone, the heart, the **soul** of our application! (Not to mention it gives us server-side rendering and static web applications)【9†source】.
