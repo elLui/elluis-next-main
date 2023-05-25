@@ -10,10 +10,14 @@ export default function Home() {
             <ul className="flex flex-col items-center justify-between">
                 <li className="flex flex-col items-center justify-between">
                     <Link href="https://nextjs.org/docs">Install Next.js 13@latest - ✅</Link>
+                <hr className="w-full"/>
                 </li>
+
+                <hr className="w-full"/>
                 <li className="flex flex-col items-center justify-between">
                     🌟clean this sucker out! - ✅
                 </li>
+                <hr className="w-full"/>
                 <li className="flex flex-col items-center justify-between">
                     <Link href={"https://www.prisma.io/docs/getting-started/quickstart-typescript"}>
 
@@ -26,13 +30,16 @@ export default function Home() {
                         <li>updated prisma schema (initial schema is default :: user && post)</li>
                         <li>pnpm prisma migrate dev --name dev || name of db</li>
                         <li>pnpm add @prisma/client</li>
+                        <li>create lib/prisma.ts that creates a singleton PrismaClient for use throughout the application</li>
                     </ul>
                 </li>
+                <hr className="w-full"/>
                 <li className="flex flex-col items-center justify-between">
-                    <Link href={"https://github.com/lukeed/clsx"}>CLSX</Link>
+                    <Link href={"https://github.com/lukeed/clsx"}>CLSX ✅</Link>
                 </li>
+                <hr className="w-full"/>
                 <li className="flex flex-col items-center justify-between">
-                    <Link href={"https://tailwindcss.com/docs"}>TailwindCSS</Link>
+                    <Link href={"https://tailwindcss.com/docs"}>TailwindCSS ✅</Link>
                 </li>
 
 
