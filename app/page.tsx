@@ -31,7 +31,11 @@ export default function Home() {
                 <li className="flex flex-col items-center justify-between">
                     <Link href={"https://github.com/lukeed/clsx"}>CLSX</Link>
                 </li>
-                
+                <li className="flex flex-col items-center justify-between">
+                    <Link href={"https://tailwindcss.com/docs"}>TailwindCSS</Link>
+                </li>
+
+
             </ul>
             <p>
                 🌶️ -- create a new favicon
